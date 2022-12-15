@@ -3,6 +3,8 @@ Rice Classification[¶](#Rice-Classification)
 
 ### Julian Pichler & Tobias Wecht[¶](#Julian-Pichler-&-Tobias-Wecht)
 
+In diesem Readme ist nur eine kleiner Ausschnitt der Dokumentation des AKT Projekts. Mehr Details finden Sie im Jupyter Notebook oder dem exportiertem HTML.
+
 Dataset: [https://www.kaggle.com/datasets/muratkokludataset/rice-image-dataset](https://www.kaggle.com/datasets/muratkokludataset/rice-image-dataset)  
 Splitted dataset (used in Notebook): [https://drive.google.com/file/d/1fFb3Ybl2\_Eq7FEYBvjThWOSdXo7wEq\_v/view?usp=sharing](https://drive.google.com/file/d/1fFb3Ybl2_Eq7FEYBvjThWOSdXo7wEq_v/view?usp=sharing)
 
